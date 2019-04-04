@@ -1,0 +1,119 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "95E0E38D-D377-4526-8D9E-CA587F80501E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FCF0F025-4625-4254-AE52-F5E0CEF54E2B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8CD1C4AB-4E5B-4C6F-BE2F-56A154BFB8B5",
+    "height": 627,
+    "width": 1200,
+    "x": 416,
+    "y": 332
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "94B7D5E1-E931-4301-B664-4526ABF093BD"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "02246346-A924-4B36-82F2-C238C0F6F055",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "BBF36D37-0E5C-4031-9385-DC89680EDDE0"
+    },
+    {
+      "class": "bitmap",
+      "id": "D06FF85D-B1AD-4A94-B526-C53D4D7DD3A3"
+    },
+    {
+      "class": "rectangle",
+      "id": "5776B6DF-9ECF-4874-9A07-AB8BC926A64C"
+    },
+    {
+      "class": "group",
+      "id": "3E047657-9EB5-45EC-ABA1-6116C7F7F035"
+    },
+    {
+      "class": "group",
+      "id": "7DBBA026-453C-45F4-81AA-39F29E336F6F"
+    },
+    {
+      "class": "group",
+      "id": "5A523EC9-63E0-497A-BB7B-224539C8CDEA"
+    }
+  ],
+  "name": "2",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "iPad",
+    "offersLandscapeVariant": 1,
+    "width": 768
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D67B2618-9C9B-4882-A4BB-688DB843804D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3906E6C1-C0A5-4C4B-BA6B-7FE48AF2198F",
+    "guides": [
+    ]
+  }
+}
