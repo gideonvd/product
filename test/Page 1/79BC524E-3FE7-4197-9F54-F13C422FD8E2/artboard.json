@@ -52,6 +52,18 @@
     {
       "class": "oval",
       "id": "871BDC42-EFA6-4753-A44C-AC4FD5A282F2"
+    },
+    {
+      "class": "oval",
+      "id": "D892D8C3-9A2B-4620-AF32-0F269F5001BD"
+    },
+    {
+      "class": "oval",
+      "id": "289DCDCA-1371-4AF0-BDC1-9F0A9793FE2A"
+    },
+    {
+      "class": "oval",
+      "id": "F008E8E1-3F14-4020-BD56-D680DA8F2940"
     }
   ],
   "name": "iPhone 8 Plus",
